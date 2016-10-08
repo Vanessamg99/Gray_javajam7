@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang=“en”>
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
+</script>
+<![endif]-->
+<head>
+<title>JavaJam Coffe House</title>
+<met charset="utf-8">
+<link rel="stylesheet" href="javajam.css">
+</head>
+<div id="wrapper">
+<header>
+<h1><font size = "30"><b>JavaJam Coffee House</font></b></h1>
+</header>
+<nav>
+<ul>
+		<li><font color= "blue"><a href="index.html"><u>Home</a></u></li>
+		<li><a href="menu.html"><u>Menu</a></u></li>
+		<li><a href="music.html"><u>Music</a></u></li>
+		<li><u>Jobs</u></p></li>
+</ul>
+</nav>
+<font color= "black">
+<main>
+<div id="content">
+<src="heroguitar.jpg"
+	alt="JavaJam" background="100%": height="250"><br><br>
+<main>
+<b>Music at JavaJam</b>
+<p>
+"The first Friday night of each month at JavaJam is a special night. Join us from 8pm to 11pm for some music you<br>
+ won't want to miss!"<br><br>
+</p>
+
+<h4>January</h4>
+<div>
+<img class="float" src=src="melaniethumb.jpg" alt="Melody Morris"
+height="100" width="100" >
+<p>Melaine Morris entertains with her melodic folk style.</p><br class="clearleft">
+</div>
+<h4>February</h4>
+<p class="details">
+<a href=""gregthumb.jpg"><img src="gregthumb.jpg" width="100" height="100"
+alt="view a larger greg"></a>
+Tahoe Greg is back from his tour. New songs. New stories.</p><br><br class="clearleft">
+</div>
+<div id="footer">
+<footer>
+Copyright &copy; 2016 JavaJam Coffee House</br>
+<a href="Vanessa@Gray.com">Vanessa@Gray.com</a>
+</footer>
+</div>
+</body>
+</html>
